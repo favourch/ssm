@@ -1,0 +1,51 @@
+
+
+.link-box {padding:20px 20px 20px 75px; margin-right:20px; margin-bottom:20px; width:260px;float:left; background:#6CBE42; height:80px;}
+
+.link-heading { padding-top:10px;}
+.link-heading a {font-size:24px; margin-top:10px; color:#fff; text-decoration:none;}
+.link-descr {color:#fff;text-align:justify;}
+.box{
+    width:750px;
+    margin:0px auto;
+}
+
+.timetable1 { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/creat-time.png) no-repeat 20px center !important;
+}
+
+.timetable1:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/creat-time.png) no-repeat 20px center !important;
+}
+
+.timetable2 { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/set-time.png) no-repeat 20px center !important;
+}
+
+.timetable2:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/set-time.png) no-repeat 20px center !important;
+}
+
+.timetable3 { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/view-time-table.png) no-repeat 20px center !important;
+}
+
+.timetable3:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/view-time-table.png) no-repeat 20px center !important;
+}
+
+.timetable4 { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/institute-time.png) no-repeat 20px center !important;
+}
+
+.timetable4:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/institute-time.png) no-repeat 20px center !important;
+}
+
+.timetable5 { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/creat-weeks.png) no-repeat 20px center !important;
+}
+
+.timetable5:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/creat-weeks.png) no-repeat 20px center !important;
+}

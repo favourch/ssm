@@ -1,0 +1,78 @@
+#inner-tab-menu ul li {
+    background-color:#9D0E00;
+    color:#FFFFFF;
+    float:left;
+    font-size:0.9em;
+    height:1.5em;
+    list-style-type:none;
+    margin:0 0 0 10px;
+    padding:2px 5px;
+    text-align:center;
+    width:100px;
+}
+
+
+.link-box {
+    background: none repeat scroll 0 0 rgb(108, 190, 66);
+    float: left;
+    height: 80px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding: 20px 20px 20px 75px;
+    width: 260px;
+}
+
+.link-heading { 
+	padding-top:15px;
+}
+.link-heading a {
+    font-weight:bold;
+    color:#fff;
+	text-decoration:none;
+	font-size:18px;
+}
+.link-descr {
+    margin-top:5px;
+    color:#fff;
+    text-align:justify;
+    font-size:14px;
+}
+
+.mng-course { 
+	background:url(../../images/examination/mng-courses.png) no-repeat 20px center #6CBE42 !important;
+}
+
+.mng-course:hover { 
+	background:url(../../images/examination/mng-courses.png) no-repeat 20px center #58BAE9 !important;
+}
+
+.mng-batch { 
+	background:url(../../images/examination/mng-batch.png) no-repeat 20px center #6CBE42 !important;
+}
+
+.mng-batch:hover { 
+	background:url(../../images/examination/mng-batch.png) no-repeat 20px center #58BAE9 !important;
+}
+
+.box{
+    width: 750px;
+    margin:0px auto;
+
+}
+.label-field-pair label {
+    width:280px;
+}
+
+.text-input-bg {
+    width:100px;
+}
+.label-field-pair label {
+    color:#444444;
+    display:block;
+    float:left;
+    font-size:14px;
+    font-weight:600;
+    margin:0 0 10px;
+    padding-top:10px;
+    width:150px;
+}

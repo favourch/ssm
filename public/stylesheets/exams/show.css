@@ -1,0 +1,92 @@
+
+.link-box {
+    margin:10px 40px;
+    width:270px;
+    float:left;
+    height:80px;
+}
+.link-heading a {
+    font-weight:bold;
+    color:#900;
+}
+.link-descr {
+    margin-top:5px;
+    color:#666;
+    text-align:justify;
+    font-size:14px;
+}
+#box{
+    width:700px;
+    margin:0px auto;
+}
+
+#inner-tab-menu ul li {
+    padding: 0 6px;
+
+}
+
+.label-field-pair {
+    height:30px;
+    padding-top:3px;
+    width:60px;
+}
+.label-field-pair input {
+    background : #f9fdff;
+    border : 1px solid #d4dfe5;
+    height:17px;
+    margin:0 0 0 10px;
+    padding:5px;
+    width:50px;
+}
+.label-field-pair input:focus{
+    background: #fff;
+    border: 1px solid #58bae9;
+	box-shadow:0 1px 2px #58bae9 inset;
+}
+
+.label-field-pair2 {
+    height:30px;
+    padding-top:3px;
+    width:400px;
+}
+.label-field-pair2 input {
+    background : #f9fdff;
+    border : 1px solid #d4dfe5;
+    height:17px;
+    margin:0 0 0 10px;
+    padding:5px;
+    width:350px;
+}
+.label-field-pair2 input:focus{
+    background: #fff;
+    border: 1px solid #58bae9;
+	box-shadow:0 1px 2px #58bae9 inset;
+}
+.submit_button {
+
+    padding: 8px 20px;
+    color: #fff;
+    background: #58bae9;
+    font-weight: bold;
+    font-size: 14px;
+    border:none;
+    cursor:pointer;
+}
+.submit_button:hover{
+    background:  #6cbe42;
+}
+
+#sub-button{
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 80px;
+}
+
+.text-input-bg select {
+    -moz-border-radius:10px 10px 10px 10px;
+    background-color:#EEEEEE;
+    border:1px solid #C6C6C6;
+    height:27px;
+    padding:3px 6px;
+    width:130px;
+}

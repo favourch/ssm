@@ -1,0 +1,18 @@
+# Logfile created on Tue Jan 07 20:15:58 +0500 2014 by logger.rb/22285
+I, [2014-01-07T20:15:58.148698 #4980]  INFO -- : 0:  rake (0.8.7) from C:/Ruby187/lib/ruby/gems/1.8/specifications/rake-0.8.7.gemspec
+I, [2014-01-07T20:15:58.617725 #4980]  INFO -- : 0:  activesupport (2.3.5) from C:/Ruby187/lib/ruby/gems/1.8/specifications/activesupport-2.3.5.gemspec
+I, [2014-01-07T20:15:58.778734 #4980]  INFO -- : 0:  rack (1.0.1) from C:/Ruby187/lib/ruby/gems/1.8/specifications/rack-1.0.1.gemspec
+I, [2014-01-07T20:15:59.929800 #4980]  INFO -- : 0:  actionpack (2.3.5) from C:/Ruby187/lib/ruby/gems/1.8/specifications/actionpack-2.3.5.gemspec
+I, [2014-01-07T20:16:00.107810 #4980]  INFO -- : 0:  actionmailer (2.3.5) from C:/Ruby187/lib/ruby/gems/1.8/specifications/actionmailer-2.3.5.gemspec
+I, [2014-01-07T20:16:00.660842 #4980]  INFO -- : 0:  activerecord (2.3.5) from C:/Ruby187/lib/ruby/gems/1.8/specifications/activerecord-2.3.5.gemspec
+I, [2014-01-07T20:16:00.729846 #4980]  INFO -- : 0:  activeresource (2.3.5) from C:/Ruby187/lib/ruby/gems/1.8/specifications/activeresource-2.3.5.gemspec
+I, [2014-01-07T20:16:00.752847 #4980]  INFO -- : 0:  cgi_multipart_eof_fix (2.5.0) from C:/Ruby187/lib/ruby/gems/1.8/specifications/cgi_multipart_eof_fix-2.5.0.gemspec
+I, [2014-01-07T20:16:00.848852 #4980]  INFO -- : 0:  declarative_authorization (0.5.1) from C:/Ruby187/lib/ruby/gems/1.8/specifications/declarative_authorization-0.5.1.gemspec
+I, [2014-01-07T20:16:00.934857 #4980]  INFO -- : 0:  gem_plugin (0.2.3) from C:/Ruby187/lib/ruby/gems/1.8/specifications/gem_plugin-0.2.3.gemspec
+I, [2014-01-07T20:16:01.004861 #4980]  INFO -- : 0:  i18n (0.4.2) from C:/Ruby187/lib/ruby/gems/1.8/specifications/i18n-0.4.2.gemspec
+I, [2014-01-07T20:16:01.153870 #4980]  INFO -- : 0:  mongrel (1.1.5) from C:/Ruby187/lib/ruby/gems/1.8/specifications/mongrel-1.1.5-x86-mingw32.gemspec
+I, [2014-01-07T20:16:01.212873 #4980]  INFO -- : 0:  mysql (2.8.1) from C:/Ruby187/lib/ruby/gems/1.8/specifications/mysql-2.8.1-x86-mingw32.gemspec
+I, [2014-01-07T20:16:02.130926 #4980]  INFO -- : 0:  rails (2.3.5) from C:/Ruby187/lib/ruby/gems/1.8/specifications/rails-2.3.5.gemspec
+I, [2014-01-07T20:16:02.194929 #4980]  INFO -- : 0:  searchlogic (2.4.27) from C:/Ruby187/lib/ruby/gems/1.8/specifications/searchlogic-2.4.27.gemspec
+I, [2014-01-07T20:16:02.243932 #4980]  INFO -- : 0:  win32-open3 (0.3.2) from C:/Ruby187/lib/ruby/gems/1.8/specifications/win32-open3-0.3.2-x86-mingw32.gemspec
+I, [2014-01-07T20:16:02.245932 #4980]  INFO -- : 0:  bundler (1.5.1) from C:/Ruby187/lib/ruby/gems/1.8/specifications/bundler-1.5.1.gemspec

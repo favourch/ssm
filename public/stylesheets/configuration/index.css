@@ -1,0 +1,52 @@
+
+
+.link-box {padding:10px 20px 10px 75px; margin-right:20px; margin-bottom:20px; width:260px;float:left; background:#6CBE42; height:100px;}
+
+.link-heading { }
+.link-heading a {font-size:24px; margin-top:10px; color:#fff; text-decoration:none;}
+.link-descr {color:#fff;text-align:justify;}
+#box{
+    width:750px;
+    margin:0px auto;
+}
+
+.mng-course { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/manage-course.png) no-repeat 20px center !important;
+}
+
+.mng-course:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/manage-course.png) no-repeat 20px center !important;
+}
+
+.mng-student { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/manage-student.png) no-repeat 20px center !important;
+}
+
+.mng-student:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/manage-student.png) no-repeat 20px center !important;
+}
+
+.mng-sub { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/manage-subject.png) no-repeat 20px center !important;
+}
+
+.mng-sub:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/manage-subject.png) no-repeat 20px center !important;
+}
+
+.general-setting { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/general-setting.png) no-repeat 20px center !important;
+}
+
+.general-setting:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/general-setting.png) no-repeat 20px center !important;
+}
+
+.add-admission { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/add-admission.png) no-repeat 20px center !important;
+}
+
+.add-admission:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/add-admission.png) no-repeat 20px center !important;
+}
+

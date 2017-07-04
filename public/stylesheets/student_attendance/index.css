@@ -1,0 +1,26 @@
+
+.link-box {padding:20px 20px 20px 75px; margin-right:20px; margin-bottom:20px; width:260px;float:left; background:#6CBE42; height:80px;}
+
+.link-heading { padding-top:10px;}
+.link-heading a {font-size:24px; margin-top:10px; color:#fff; text-decoration:none;}
+.link-descr {color:#fff;text-align:justify;}
+#box{
+    width:750px;
+    margin:0px auto;
+}
+
+.att-register { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/att-register.png) no-repeat 20px center !important;
+}
+
+.att-register:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/att-register.png) no-repeat 20px center !important;
+}
+
+.att-report { 
+	background:#6CBE42 url(../../images/student_attendance/attendance_list/att-report.png) no-repeat 20px center !important;
+}
+
+.att-report:hover { 
+	background:#58bae9 url(../../images/student_attendance/attendance_list/att-report.png) no-repeat 20px center !important;
+}

@@ -1,0 +1,27 @@
+
+.submit_button {
+    margin-top:20px;
+    margin-left:210px;
+    padding: 8px 20px;
+    color: #fff;
+    background: #58bae9;
+    font-weight: bold;
+    font-size: 14px;
+    border:none;
+    cursor:pointer;
+}
+.submit_button:hover{
+    background:  #6cbe42;
+}
+
+.label-container
+{
+    color: #444444;
+    display: block;
+    float: left;
+    font-size: 14px;
+    font-weight: 100;
+    margin: 0 0 10px;
+    padding-top: 10px;
+    width: 200px;
+}

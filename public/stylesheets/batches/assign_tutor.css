@@ -1,0 +1,80 @@
+
+.link-box {
+    margin:10px 40px;
+    width:270px;
+    float:left;
+    height:80px;
+}
+.link-heading a {
+    font-weight:bold;
+    color:#900;
+}
+.link-descr {
+    margin-top:5px;
+    color:#666;
+    text-align:justify;
+    font-size:14px;
+}
+#box{
+    width:700px;
+    margin:0px auto;
+}
+
+#tutor-list {
+    clear : both;
+    padding : 0;
+    width:650px;
+    margin:20px auto;
+}
+
+#tutor-list .listodd{
+    background : #fff;
+    border-bottom:1px solid #BECFFB;
+    color : #3c4950;
+    height : 1.5em; width : 30em;
+    list-style-type : none;
+    padding : 0.5em 0 0 5em;
+}
+
+#tutor-list .listeven{
+    background:#DFF4FE;
+    border-bottom:1px solid #BECFFB;
+    color : #3c4950;
+    height : 1.5em; width : 30em;
+    list-style-type : none;
+    padding : 0.5em 0 0 5em;
+}
+
+#tutor-list li.heading {
+    background : #58bae9;
+    font-weight : bold;
+    list-style-type : none;
+    color : #fff;
+    height : 1.5em; width : 30em;
+    padding : 0.5em 0 .5em 5em;
+	border-bottom:1px solid #BECFFB;
+}
+#tutor-list li div {
+    float : left;
+}
+#tutor-list li div.tutor-name {
+    width : 350px;
+    font-size:13px;
+}
+#tutor-list li div.remove{
+    font-size : 0.9em;
+    width : 50px;
+}
+#tutor-list li div a {
+    color : #3c4950;
+    text-decoration:none;
+    font-size:14px;
+}
+#tutor-list li div a:hover {
+    color : #222;
+    text-decoration:underline;
+}
+
+.label-field-pair { 
+	width:30em;
+}

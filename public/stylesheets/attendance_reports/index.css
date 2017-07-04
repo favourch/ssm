@@ -1,0 +1,139 @@
+.blank{
+    
+}
+
+.label-field-pair1 {
+    height : 40px;
+    width : 310px;
+    padding-top: 3px;
+    float:right;
+}
+.text-input-bg1 {
+    background : transparent;
+    width : 120px;
+    float:left;
+}
+
+.text-input-bg2 {
+    background : transparent;
+    width : 134px;
+    float:left;
+}
+
+.text-input-bg3 {
+    background : transparent;
+    width : 120px;
+    float:left;
+}
+
+.label-field-pair label {
+    color : #3c4950;
+    display : block;
+    font-size: 14px;
+    float:left;
+    padding-top: 10px;
+    font-weight: 600;
+    width: 220px;
+}
+
+.label-field-pair1 label {
+    color : #444;
+    display : block;
+    font-size: 14px;
+    margin : 0 0 10px 0;
+    float:left;
+    width:60px;
+    padding-top: 10px;
+    font-weight: 600;
+
+}
+.label-field-pair1 input {
+    background : #f9fdff;
+    border : 1px solid #d4dfe5;
+    margin : 5px 0 0 10px;
+    width : 100px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    padding: 5px;
+}
+
+.label-field-pair1 input:focus { 
+	background: #fff;
+    border: 1px solid #58bae9;
+	box-shadow:0 1px 2px #58bae9 inset;
+}
+
+.text-input-bg1 select {
+    background : #f9fdff;
+    border : 1px solid #d4dfe5;
+    margin : 5px 0 0 10px;
+    width : 100px;
+    padding:3px 6px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}
+
+
+.submit_button {
+    background:#58bae9 none repeat scroll 0 0;
+    color:#FFFFFF;
+    font-size:14px;
+    font-weight:bold;
+    padding:5px 20px;
+    border:none;
+    cursor:pointer;
+    float: right;
+    margin-right:92px;
+    margin-top:8px;
+}
+.submit_button:hover{
+    background: #6cbe42;
+}
+
+.text-input-bg2 select {
+    background-color : #f9fdff;
+    border : 1px solid #d4dfe5;
+    margin : 5px 0 0 10px;
+    width : 130px;
+    padding:3px 6px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}
+
+
+.text-input-bg3 select {
+    background-color : #f9fdff;
+    border : 1px solid #d4dfe5;
+    margin : 5px 0 0 10px;
+    width : 80px;
+    padding:3px 6px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}
+
+#page-yield {
+
+    margin : 0;
+
+}
+.label-field-pair2{
+    font-variant:small-caps;
+    font-weight:bold;
+    padding:5px;
+    text-align:center;
+}
+.submit_button2 {
+    background:#58bae9 none repeat scroll 0 0;
+    color:#FFFFFF;
+    font-size:14px;
+    font-weight:bold;
+    padding:8px 10px;
+    border:none;
+    cursor:pointer;
+    float: left;
+    margin-left:400px;
+    margin-top:10px;
+}
+.submit_button2:hover{
+    background: #6cbe42;
+}

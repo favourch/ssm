@@ -1,0 +1,105 @@
+
+#profile_view{
+    margin:25px auto;
+    width:704px;
+	border:2px solid #58BAE9;
+}
+
+.profile_info_label {
+    padding-top:15px;
+    padding-bottom:5px;
+    height:25px;
+    width:150px;
+    text-align:right;
+    padding-right:25px;
+    float:left;
+    font-weight:bold;
+    color:#2A3238;
+    background: #DFF4FE;
+    border-top:1px solid #58bae9;
+	border-right:1px solid #58bae9;
+	margin-top:-1px;
+}
+.profile_info_label2 {
+    padding-top:15px;
+    padding-bottom:5px;
+    height:25px;
+    width:150px;
+    text-align:right;
+    padding-right:25px;
+    float:left;
+    font-weight:bold;
+    color:#2A3238;
+    background: #fff;
+    border-top:1px solid #58bae9;
+	border-right:1px solid #58bae9;
+	
+}
+.profile_info_text {
+    padding-top:15px;
+    padding-bottom:5px;
+    padding-left:20px;
+    height:25px;
+    width:507px;
+    float:left;
+    color:#3c4950;
+    background: #DFF4FE;
+    border-top:1px solid #58bae9;
+	margin-top:-1px;
+}
+.profile_info_text2 {
+    padding-top:15px;
+    padding-bottom:5px;
+    padding-left:20px;
+    height:25px;
+    width:507px;
+    float:left;
+    color:#3c4950;
+    background:#fff;
+    border-top:1px solid #58bae9;
+}
+.submit-buttons {
+    margin:10px auto;
+    margin-left:320px;
+}
+a.user_button{
+    background:#58bae9;
+    color:#FFFFFF;
+    font-family:arial;
+    font-size:14px;
+    font-weight:bold;
+    margin:30px auto;
+    margin-right:20px;
+    padding:10px 12px;
+    border:none;
+    text-align:center;
+    text-decoration: none;
+    width:auto;
+    cursor:pointer;
+}
+a.user_button:hover{
+    background: #6CBE42;
+}
+
+#inner-tab-menu ul li {
+    color:#FFFFFF;
+    float:left;
+    font-size:0.9em;
+    list-style-type:none;
+    margin:0 10px 0 0;
+    text-align:center;
+}
+
+#inner-tab-menu ul li a { 
+	background-color:#6CBE42;
+}
+.profile_info_text select{
+	background : #f9fdff;
+    border : 1px solid #d4dfe5;
+    margin : -3px 0 0 0;
+    width : 215px;
+    height:27px;
+    padding:3px 6px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}

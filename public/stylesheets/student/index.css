@@ -1,0 +1,54 @@
+
+
+#view_all {margin-left:50px;}
+#view_all a {font-weight:bold;color:#000;}
+
+#search_box_bg{width:800px;margin-top:10px; overflow: hidden; height:50px;padding-top:10px; }
+
+#search_box_bg label{padding-top:0px;color:#3c4950;font-size:16px; float:left; width:100px; font-weight: bold;}
+#search_textbox input{
+    float:left;
+    background : #f9fdff;
+    border : 1px solid #d4dfe5;
+    margin : -5px 0 0 10px;
+    width : 230px;
+    height:28px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    padding: 4px 0 0 5px;
+}
+
+.radio_button{width:350px; margin-top:3px; margin-left:50px; height:25px;color:#3c4950; float:left; font-size:13px;}
+#information{height:auto;width:100%;margin:0px auto;padding-left:0px; margin-top:30px;}
+#no_result{font-weight:bold;color:#b00}
+#ajax_result {padding:10px 0 10px 0;width:204px;float:left;}
+#ajax_result a{color:#000;font-weight:bold; text-decoration:none;}
+#ajax_result a:hover{color:#9E0F15; text-decoration:underline;}
+
+/* ALL STUDENT CSS */
+
+#all_students{margin:0px; padding:0px; height:300px; width:725px; margin:20px 0 0 40px;}
+#student_name{padding:10px 10px 10px 0;text-decoration:none;width:230px;float:left;background:#fff url(../../images/student_details/ajax_result_underline.jpg) bottom left no-repeat}
+#student_name a {text-decoration:none;color:#000;font-weight:bold}
+.students-on-one-line {
+    background : #fff url(../../images/student_details/ajax_result_underline.jpg) bottom left repeat-x;
+    overflow: auto;
+    width:816px;
+    margin-bottom: 20px;
+}
+#search_textbox input:focus{
+    background: #fff;
+    border: 1px solid #58bae9;
+	box-shadow:0 1px 2px #58bae9 inset;
+}
+
+#side_bar{
+    float: left;
+    width: 200px;
+}
+#content {
+    min-height: 400px;
+}
+#sidebar_news_area{
+    float: none;
+}

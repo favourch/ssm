@@ -1,0 +1,62 @@
+
+.link-box {padding:20px 20px 20px 75px; margin-right:20px; margin-bottom:20px; width:260px;float:left; background:#6CBE42; height:80px;}
+
+.link-box-last { padding:10px 20px 10px 75px !important; height:100px !important; }
+
+.link-box-last .link-heading { padding-top:0 !important;}
+.link-heading { padding-top:10px;}
+.link-heading a {font-size:24px; margin-top:10px; color:#fff; text-decoration:none;}
+.link-descr {color:#fff;text-align:justify;}
+#box{
+    width:750px;
+    margin:0px auto;
+}
+
+.hr1 { 
+	background:#6CBE42 url(../../images/HR/hr-setting.png) no-repeat 20px center !important;
+}
+
+.hr1:hover { 
+	background:#58bae9 url(../../images/HR/hr-setting.png) no-repeat 20px center !important;
+}
+
+.hr2 { 
+	background:#6CBE42 url(../../images/HR/emp-manage.png) no-repeat 20px center !important;
+}
+
+.hr2:hover { 
+	background:#58bae9 url(../../images/HR/emp-manage.png) no-repeat 20px center !important;
+}
+
+.hr3 { 
+	background:#6CBE42 url(../../images/HR/emp-leave.png) no-repeat 20px center !important;
+}
+
+.hr3:hover { 
+	background:#58bae9 url(../../images/HR/emp-leave.png) no-repeat 20px center !important;
+}
+
+.hr4 { 
+	background:#6CBE42 url(../../images/HR/creat-pay-slip.png) no-repeat 20px center !important;
+}
+
+.hr4:hover { 
+	background:#58bae9 url(../../images/HR/creat-pay-slip.png) no-repeat 20px center !important;
+}
+
+.hr5 { 
+	background:#6CBE42 url(../../images/HR/emp-search.png) no-repeat 20px center !important;
+}
+
+.hr5:hover { 
+	background:#58bae9 url(../../images/HR/emp-search.png) no-repeat 20px center !important;
+}
+
+.hr6 { 
+	background:#6CBE42 url(../../images/HR/emp-slip.png) no-repeat 20px center !important;
+}
+
+.hr6:hover { 
+	background:#58bae9 url(../../images/HR/emp-slip.png) no-repeat 20px center !important;
+}
+

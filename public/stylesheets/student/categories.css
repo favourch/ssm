@@ -1,0 +1,107 @@
+.text-input-bg input:focus{
+    
+	background: #fff;
+    border: 1px solid #58bae9;
+	box-shadow:0 1px 2px #58bae9 inset;
+}
+
+.text-input-bg input {
+    background : #f9fdff;
+    border : 1px solid #d4dfe5;
+    height:17px;
+    margin:5px 0 0 10px;
+    padding:5px;
+    width:205px;
+    text-align: left;
+}
+
+.submit_button {
+    margin-left: 210px;
+    margin-top:20px;
+    padding: 8px 30px;
+    color: #fff;
+    background: #58bae9;
+    font-weight: bold;
+    font-size: 14px;
+    border:none;
+    cursor:pointer;
+}
+.submit_button:hover{
+    background:  #6cbe42;
+}
+
+
+#category-list {
+    clear : both;
+    padding : 0;
+	border:2px solid #58bae9;
+    width:640px;
+    margin:0px auto;
+}
+
+#category-list .listeven{
+    background : #fff;
+    border-bottom:1px solid #BECFFB;
+    color : #3c4950;
+    height : auto; width : 35em;
+    list-style-type : none;
+    padding : 0.6em 0 0.4em 5em;
+    overflow: hidden;
+}
+
+#category-list .listeven:last-child, #category-list .listodd:last-child {
+	border-bottom:none !important;
+}
+#category-list .listodd{
+    background : #DFF4FE;
+    border-bottom:1px solid #BECFFB;
+    color : #3c4950;
+    height : auto; width : 35em;
+    list-style-type : none;
+    padding : 0.6em 0 0.4em 5em;
+    overflow: hidden;
+}
+
+#category-list li.heading {
+    background : #58bae9;
+    font-weight : bold;
+    list-style-type : none;
+    color : #fff;
+    height : 1.5em; width : 30em;
+    padding : 0.5em 0 0 5em;
+}
+#category-list li div {
+    float : left;
+}
+#category-list li div.category-name {
+    width : 410px;
+    font-weight: bold;
+    font-size:13px;
+}
+#category-list li div.category-edit,
+#category-list li div.category-delete {
+    font-size : 0.9em;
+    width : 50px;
+
+}
+#category-list li div a {
+    color : #3c4950;
+    font-size:14px;
+    text-decoration: none;
+}
+#category-list li div a:hover {
+    color : #222;
+    text-decoration: underline;
+}
+
+.box {
+    margin: 0 auto;
+    width: 480px;
+}
+
+.small-strike {
+    float: left;
+    font-size: 0.9em;
+    text-decoration: line-through;
+    width: 35px;
+}

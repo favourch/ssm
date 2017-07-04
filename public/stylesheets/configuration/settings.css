@@ -1,0 +1,34 @@
+
+#submit-button input {
+    background:#58bae9 none repeat scroll 0 0;
+    color:#FFFFFF;
+    font-size:14px;
+    font-weight:bold;
+    margin:0px auto;
+    margin-left:252px;
+    margin-top:30px;
+    padding:8px 30px;
+    border:none;
+    text-align:center;
+    width:auto;
+    cursor:pointer;
+}
+
+#submit-button input:hover { 
+	background:#6cbe42;
+}
+
+input#upload_datafile{
+    height:25px;
+	padding:3px 5px;
+}
+form{
+    margin:0px auto;
+}
+.box{
+    margin: 0 auto;
+    width: 560px;
+}
+.label-field-pair label{
+    width: 240px !important;
+}

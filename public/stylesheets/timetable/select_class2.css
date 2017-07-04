@@ -1,0 +1,23 @@
+
+.label-field-pair {
+    margin : 0 0 0 100px;
+}
+.submit-button input{
+    background:#58bae9 none repeat scroll 0 0;
+    color:#FFFFFF;
+    font-size:14px;
+    font-weight:bold;
+    margin-left:310px;
+    margin-top:30px;
+    padding:8px 20px;
+    border:none;
+    cursor:pointer;
+}
+
+.submit-button input:hover {  
+	background:#6cbe42;
+}
+form{
+    width:650px;
+    margin:0px auto;
+}

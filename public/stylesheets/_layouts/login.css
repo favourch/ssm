@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+body {
+    font-family:sans-serif;
+    margin: 0;
+	background:url(../../images/login/bg.png);
+}
+
+#top_logo {
+    padding:15px 0 10px;
+    text-align:center;
+    /*background:#fff url(../../images/login/fedena_logo.jpg) no-repeat;*/
+}
+#top_logo h1 {
+    text-indent:-9999px;
+}
+#help_top {
+    margin:0px auto;
+    width:614px;height:1.5em;
+	display:none;
+}
+#help_top #help_link {float:right;}
+#help_top #help_link a {color:#0A0845;padding-right:10px;}
+
+#login_area_bg {/*background:#fff url(../../images/login/form_bg.jpg) repeat-x;height:362px;*/ margin-bottom:50px;}
+#login_area {width:450px;background:#e4f4ff;margin:0px auto; border-radius:5px; box-shadow:0 0 1px #A9C7DB;}
+#login_area label {display:block; color:#39a3eb;font-size:16px;}
+
+#username_textbox_bg, #password_textbox_bg {height:50px;background:#fff ;}
+#username_textbox_bg input, #password_textbox_bg input {height:20px;border:none;background:transparent;font-size:16px;color:#9cc3de !important; margin:15px 0 !important ; }
+
+#submit_area input {
+    background:#39a3eb;
+    height:45px;
+	line-height:40px;
+	width:100%;
+	text-align:center;
+    border:none;
+    color:#fff;
+    font-size: 24px;
+    font-weight: bold;
+    cursor:pointer;
+	font-family:inherit;
+    
+
+}
+
+#submit_area { 
+	margin-bottom:20px;
+}
+
+#submit_area input:hover{
+    background: #fff;
+	color:#39a3eb;
+	box-shadow:0 0 1px #D6E5F0;
+
+}
+#resetpw_area input {width:85px;height:38px;float:right;margin-right:58px;margin-top:55px;}
+
+#checkbox_area { margin-bottom:20px;}
+#checkbox_area label {margin:0;display:inline;}
+#checkbox_area input {margin:0 5px 0 0;padding:0;}
+
+#notice {
+   	color:#39A3EB;
+    padding:10px;
+    border-bottom:4px solid #39A3EB;
+    background-color:#fff;
+	box-shadow:0 0 1px rgb(214, 229, 240);
+    text-align:center;
+	font-weight:bold;
+    font-size:16px;
+}
+#wrapper  #help_forgot_pw {margin-bottom:20px;/*text-align:center;width:614px;*/}
+#wrapper  #help_forgot_pw a {text-decoration:underline;font-size:16px;color:#39a3eb;}
+#wrapper  #help_forgot_pw a:hover {text-decoration:none; color:#1a72ae;}
+
+#username_texbox_bg input{border:none;margin:0px; padding:0px;text-align:center;}
+
+input[type="text"], input[type="password"], textarea, select {outline: none;}
+
+#footer {
+    /* position : relative;
+    margin-top : -33px; 
+    height : 130px;*/
+	padding:15px 0;
+    background: #313a42;
+}
+#footer_logo {
+    position:relative;
+     width:980px;
+     margin:0 auto;
+}
+
+#footer_logo a.footer-logo{
+    display:block;
+    float:right;
+    height:66px;
+    margin-top:-55px;
+    width:210px;
+    background: url(/images/footer-logo.png) no-repeat 0 0 transparent;
+}
+
+#footer_logo a.footer-logo:hover {
+    background: url(/images/footer-logo.png) no-repeat -210px 0 transparent;
+
+}
+
+#powered_by {
+    width:980px;
+    margin:0 auto;
+	display:table;
+    color:#fff;
+    font-size:12px;
+    font-weight:bold;
+}
+#powered_by a {
+    color:#fff;
+    font-size:14px;
+    text-decoration:none;
+}
+#powered_by a:hover {
+    color:#fff;
+    font-size:14px;
+    text-decoration:underline;
+}
+
+#wrapper {
+   
+    position:relative;
+}
+.clearfooter {
+height: 66px;
+clear: both;
+}
+
+
+.login-header { 
+	border-radius:5px 5px 0 0;
+	background:#39a3eb;
+	padding:25px 0;
+	text-align:center;
+	font-size:36px;
+}
+
+.login-header h1 { 
+	font-size:36px;
+	color:#fff;
+	padding-bottom:5px;
+}
+
+.login-wrap { 
+	padding:30px 40px;
+	border-radius:0 0 5px 5px;
+}
+
+.user-icon { 
+	float:left;
+	width:60px;
+	height:50px;
+	background:url(/images/user-icon.png) no-repeat center center #39a3eb;
+}
+
+.user-pw { 
+	float:left;
+	width:60px;
+	height:50px;
+	background:url(/images/pw-icon.png) no-repeat center center #39a3eb;
+}
+
+#username_textbox_bg, #password_textbox_bg { 
+	margin-bottom:20px;
+	box-shadow:0 0 1px #D6E5F0;
+}
+
+#username_textbox_bg input, #password_textbox_bg input { 
+	float:right;
+	width:290px;
+	padding-right:10px;
+	background:#fff;
+}
+
+.ft-logo { 
+	float:right;
+	height:90px;
+}
+
+/*#username_textbox_bg input:focus > #username_textbox_bg, #password_textbox_bg{ 
+	box-shadow:0 0 3px #88a9c0;
+}
+
+#password_textbox_bg input:focus > #username_textbox_bg, #password_textbox_bg{ 
+	box-shadow:0 0 3px #88a9c0;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

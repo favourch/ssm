@@ -1,0 +1,115 @@
+
+#form-content{
+    height:150px;
+    width:500px;
+    margin:0px auto;
+}
+
+.status{
+    color : #3c4950;
+    font-weight : bold;
+    margin : 0 0 10px 5px;
+}
+
+#submit-button input{
+    background:#58bae9 none repeat scroll 0 0;
+    color:#FFFFFF;
+    font-size:14px;
+    font-weight:bold;
+    margin:0px auto;
+    float:left;
+    margin-top:20px;
+    margin-left: 210px;
+    padding:8px 30px;
+    border:none;
+    text-align:center;
+    width:auto;
+    cursor:pointer;
+}
+#submit-button input {  
+	background:#6cbe42;
+}
+
+#category-list {
+    clear : both;
+    padding : 0;
+    width:650px;
+    margin:30px auto;
+}
+
+#category-list .listeven{
+    background : #fff;
+    border-bottom:1px solid #BECFFB;
+    color : #3c4950;
+    height : 1.5em; width : 34em;
+    list-style-type : none;
+    padding : 0.5em 0 0 5em;
+}
+
+#category-list .listodd{
+    background : #DFF4FE;
+    border-bottom:1px solid #BECFFB;
+    color : #3c4950;
+    height : 1.5em; width : 34em;
+    list-style-type : none;
+    padding : 0.5em 0 0 5em;
+}
+#category-list .listodd:last-child, #category-list .listeven:last-child { 
+	border-bottom:none !important;
+}
+
+#category-list li.heading {
+    background : #58bae9;
+    font-weight : bold;
+    list-style-type : none;
+    color : #fff;
+    height : 1.5em; width : 34em;
+    padding : 0.5em 0 0 5em;
+}
+#category-list li div {
+    float : left;
+}
+#category-list li div.category-name {
+    width : 350px;
+    font-size:13px;
+    text-transform:uppercase;
+}
+#category-list li div.category-edit,
+#category-list li div.category-delete {
+    font-size : 0.9em;
+    width : 50px;
+}
+#category-list li div.category-status {
+    font-size : 0.9em;
+    width : 64px;
+}
+#category-list li div a {
+    color : #3c4950;
+    text-decoration:none;
+    font-size:14px;
+}
+#category-list li div a:hover {
+    color : #222;
+    text-decoration:underline;
+}
+
+
+
+
+
+.label-checkbox-pair  {
+    height:40px;
+    padding-top:3px;
+    padding:10px 0 0 0px;
+    width:600px;
+}
+.status{
+    color:#3c4950;
+    display:block;
+    float:left;
+    font-size:14px;
+    font-weight:100;
+    margin:0 0 10px;
+    padding-top:3px;
+    width:206px;
+}

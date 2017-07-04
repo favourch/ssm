@@ -1,0 +1,233 @@
+#admission1_form {
+    padding:0 25px;
+}
+#autofill-area .label-field-pair {
+    margin:0 95px 10px 0;
+}
+#admission1_form_vertical_block_left {
+    padding-bottom: 20px;
+}
+.label_field_pair {
+    width:600px;
+    height: 40px;
+    padding-top: 3px;
+}
+
+.label_field_pair label.label_for_gender {
+    font-weight:normal;
+    display:inline;
+}
+#admission1_form_vertical_block_right {
+    padding-bottom: 20px;
+}
+.label_field_pair1 {
+    width:285px;
+    float:left;
+    padding-top:40px;
+}
+.label_field_pair label {
+    padding-top: 10px;
+    display:block;
+    color:#444;
+    margin-bottom:10px;
+    font-size: 14px;
+    font-weight: 100;
+}
+.label_for_student_gender{
+    display:block;
+    color:#444;
+    margin-bottom:10px;
+    width:200px;
+    float:left;
+}
+.student_gender_value{
+    width:300px;
+    float:left;
+    padding-top: 5px;
+}
+.label_field_pair label.label_for_gender {
+    font-weight:normal;
+    display:inline;
+}
+
+#name_field_block {
+    clear:both;
+    padding-bottom:20px;
+}
+#name_field_block .text-input-bg {
+    background : #eee;
+    float:left;
+    border : 1px solid #c6c6c6;
+    margin : 5px 0 0 10px;
+    width : 180px;
+    height:23px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    padding-top: 3px;
+}
+#name_field_block label {
+    font-weight:bold;
+    display:block;
+    margin-bottom:10px;
+}
+#name_field_block input {
+    background:transparent;
+    border:0;
+    color:#000;
+    padding-left:10px;
+    width:165px;
+}
+.label_field_pair input[type="text"] {
+    width:210px;height:28px;
+    background:transparent;
+    border:none;
+    padding-left:10px;
+    padding-top:5px;
+}
+.label_field_pair select {
+    background : #eee;
+    border: none;
+    height: auto;
+    margin: 5px 0 0 5px;
+    width: 220px;
+}
+.label_field_pair .label_for_gender {
+    margin:0;
+    display:block;
+    padding-top:5px;
+    padding-right:10px;
+    padding-left:10px;
+}
+#student_gender_true,
+#student_gender_false {
+    margin:0;
+    padding:0;
+    width:20px;
+    display:inline;
+    margin-bottom:10px;
+    display:block;
+    float:left;
+}
+#create_user {
+    display:inline;
+}
+#address_text_area {
+    width:232px;
+    height:162px;
+    background:#fff url(../../images/admission/address_area_bg.jpg) no-repeat;
+    margin-bottom:40px;
+}
+#student_address,
+#parent_detail_office_address {
+    padding-left:10px;
+    padding-top:5px;
+    width:222px;
+    height:162px;
+    border:none;
+    background:transparent;
+    color:#b00;
+    font-weight:bold;
+}
+#create_user_option {
+    display:inline;
+    margin:0px;
+    padding:0px;
+}
+.submit_button {
+    margin-top:30px;
+    margin-left:235px;
+    padding:12px 10px 12px 38px;
+    color: #fff;
+    background: #58bae9 url(../../images/student_details/proceed-icon.png) no-repeat 15px center;
+    font-weight: bold;
+    font-size: 14px;
+    border:none;
+    font-family: arial;
+    cursor:pointer;
+	min-width:217px;
+}
+.submit_button:hover{
+    background-color:  #6CBE42;
+}
+.submit_button3 {
+    margin-top:30px;
+    margin-left:50px;
+    float:left;
+}
+.text_display {
+    width:230px;
+    height:28px;
+    background:#fff url(../../images/admission/text_input.jpg) no-repeat;
+    margin-bottom:20px;
+    color:#b00;
+    font-weight:bold;
+    padding-left:10px;
+    padding-top:3px;
+}
+.necessary-field {
+    color : #f00;
+    font-size : 1.1em;
+}
+#necessary-field-notification {
+    font-weight : bold;
+    padding : 10px 0 30px 0;
+}
+
+#create_user{
+    display:none;
+}
+.student_admission_date {
+    float:left;
+    height:80px;
+    width:430px;
+}
+.student_admission_date label {
+    color : #3c4950;
+    display:block;
+    float:left;
+    margin:0 0 10px;
+    padding-top: 10px;
+    font-weight: 100;
+    font-size: 14px;
+	
+}
+
+.text-input-bg-admission input  {
+    background : #f9fdff;
+    border : 1px solid #d4dfe5;
+    height:17px;
+    margin:5px 0 0 10px;
+    padding:5px;
+    width:205px;
+    text-align: left;
+}
+input#student_image_file {
+    height:24px;
+}
+.sub-heading{
+    background:#3ca8db;
+    height: 4px;
+    border: none;
+    margin: 0 0 15px;
+}
+.span-sub-heading{
+    font-weight: bold;
+    padding:8px 20px;
+	display:block;
+	background:#58bae9;
+	color:#fff;
+}
+.label-underline{
+    background:  #eeeeee;
+    height: 1px;
+    border: none;
+}
+.text-input-bg-admission input:focus{
+    background: #fff;
+    border: 1px solid #58bae9;
+	box-shadow:0 1px 2px #58bae9 inset;
+}
+
+input#student_photo{
+    height: 28px;
+}

@@ -1,0 +1,66 @@
+
+#category-list {
+    clear : both;
+    padding : 0;
+    width:582px;
+    margin:20px auto;
+	border:2px solid #58bae9;
+}
+
+#category-list .listeven{
+    background : #fff;
+    border-bottom:1px solid #BECFFB;
+    color : #3c4950;
+    height : 1.5em; width : 550px;
+    list-style-type : none;
+    padding : 0.5em 0 0 2em;
+}
+
+#category-list .listodd{
+    background : #DFF4FE;
+    border-bottom:1px solid #BECFFB;
+    color : #3c4950;
+    height : 1.5em; width : 550px;
+    list-style-type : none;
+    padding : 0.5em 0 0 2em;
+}
+
+#category-list li.heading {
+    background : #58bae9;
+    font-weight : bold;
+    list-style-type : none;
+    color : #fff;
+    height : 1.5em; width : 550px;
+    padding : 0.5em 0 .5em 5em;
+}
+
+#category-list .listodd:last-child, #category-list .listeven:last-child { 
+	border-bottom:none !important;
+}
+
+#category-list li div {
+    float : left;
+}
+#category-list li div.category-name {
+    font-weight: bold;
+    font-size:13px;
+}
+#category-list li div.category-edit,
+#category-list li div.category-delete {
+    font-size : 0.9em;
+    margin-left: 20px;
+
+}
+#category-list li div a {
+    color : #3c4950;
+    font-size:14px;
+    text-decoration: none;
+}
+#category-list li div a:hover {
+    color : #222;
+    text-decoration: underline;
+}
+#update_batch{
+    float:left;
+    width:100%;
+}

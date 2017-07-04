@@ -1,0 +1,102 @@
+
+#category-list {
+    clear : both;
+    padding : 0;
+    width:560px;
+    margin:20px auto;
+	border:2px solid #58bae9;
+}
+#category-list .listheading{
+	background : #58bae9;
+    border-bottom: 2px solid #58bae9;
+    color : #fff;
+	font-weight:bold;
+    height : 1.5em;
+    list-style-type : none;
+    padding : 0.5em 0 0 3em;
+    width:32em;
+}
+
+#category-list .listeven{
+    background : #fff;
+    border-bottom:1px solid #BECFFB;
+    color : #3c4950;
+    height : 1.5em; width : 30em;
+    list-style-type : none;
+    padding : 0.5em 0 0 5em;
+}
+
+#category-list .listeven:last-child, #category-list .listeven:last-child { 
+	border-bottom:none !important;
+}
+
+#category-list .listodd{
+    background : #DFF4FE;
+    border-bottom:1px solid #BECFFB;
+    color : #3c4950;
+    height : 1.5em; width : 30em;
+    list-style-type : none;
+    padding : 0.5em 0 0 5em;
+}
+
+#category-list li.heading {
+    background : none;
+    font-weight : bold;
+    list-style-type : none;
+    color : #444;
+    height : 1.5em; width : 30em;
+    padding : 0.5em 0 0 5em;
+}
+#category-list li div {
+    float : left;
+}
+
+.heading-no {
+font-size:13px;
+font-weight:bold;
+width:204px;
+}
+#category-list li div.category-name {
+    width : 250px;
+    font-size:13px;
+}
+#category-list li div.category-number {
+    width : 173px;
+    font-size:13px;
+}
+#category-list li div.category-edit,
+#category-list li div.category-delete {
+    font-size : 0.9em;
+    width : 50px;
+
+}
+#category-list li div a {
+    color : #000;
+    font-size:14px;
+    text-decoration: none;
+}
+#category-list li div a:hover {
+    color : #d00;
+    text-decoration: underline;
+}
+
+.submit_button {
+    margin-left:420px;
+    padding: 8px 30px;
+    color: #fff;
+    background: #58bae9;
+    font-weight: bold;
+    font-size: 14px;
+    border:none;
+    cursor:pointer;
+
+}
+.submit_button:hover{
+    background:  #6cbe42;
+}
+
+
+.label-field-pair input:focus{
+    background: #fff;
+    border: 1px solid #9e0f15;
+}
